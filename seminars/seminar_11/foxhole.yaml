@@ -1,0 +1,14 @@
+path: 
+
+train: images/train
+
+val: images/val
+
+test:  # (optional) test images folder
+
+# Classes
+names:
+  0: center
+  1: chest
+  2: player
+  3: scoop 
